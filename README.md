@@ -2,14 +2,6 @@
 
 This repository includes materials and user guides prepared for the public Open Labs workshop [Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](https://dublin.sciencegallery.com/events/2019/05/groundtruthdigitaldublindeepmappingvirtualreality) at the Science Gallery Dublin in June 2019.
 
-## Contents
-
-**Ground Truth In Digital Dublin: Workshop Presentation** - [Ground_Truth_In_Digital_Dublin.pdf](https://github.com/virtualarchitectures/Ground_Truth_In_Digital_Dublin/blob/master/Ground_Truth_In_Digital_Dublin.pdf)
-
-**Ground Truthing - Participant Guide** - [Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf](https://github.com/virtualarchitectures/Ground_Truth_In_Digital_Dublin/blob/master/Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf)
-
-**Creating 3D Models with Structure from Motion using Meshroom and Blender** - SfM_Meshroom_To_Blender.pdf
-
 ![Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](images/Ground_Truth_In_Digital_Dublin.PNG)
 
 > “Thousands of electronic eyes and ears continuously capture the city’s unfolding, interwoven narrative threads, and spin them out into cyberspace….In countless spatially and temporally displaced, inherently ambiguous fragments, Dublin electronically doubles itself”
@@ -30,6 +22,14 @@ conditions. City dashboards use data and visual analytics to communicate such in
 Building City Dashboards is a Science Foundation Ireland funded project which seeks to address how to build more extensive and effective city dashboards by improving data quality and standards, developing data modelling and simulation tools, designing interactive maps and graphics, and creating VR, AR and smartphone apps that better engage and address the needs of users.
                             
 See [Dublin Dashboard](www.dublindashboard.ie) and [Cork Dashboard](http://www.corkdashboard.ie). 
+
+## Contents
+
+**Ground Truth In Digital Dublin: Workshop Presentation** - [Ground_Truth_In_Digital_Dublin.pdf](https://github.com/virtualarchitectures/Ground_Truth_In_Digital_Dublin/blob/master/Ground_Truth_In_Digital_Dublin.pdf)
+
+**Ground Truthing - Participant Guide** - [Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf](https://github.com/virtualarchitectures/Ground_Truth_In_Digital_Dublin/blob/master/Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf)
+
+**Creating 3D Models with Structure from Motion using Meshroom and Blender** - SfM_Meshroom_To_Blender.pdf
 
 ## Acknowledgements
 On behalf of the Building City Dashboards project we gratefully acknowledge funding from **Science Foundation Ireland** under the Investigator’s Award Program. **Award number: 15/IA/3090**
