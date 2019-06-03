@@ -1,6 +1,6 @@
 # Ground Truth In Digital Dublin
 
-This repository includes materials and user guides prepared for the public Open Labs workshop [Ground Truth In Digital Dublin: Deep Mapping in Virtual Reality](https://dublin.sciencegallery.com/events/2019/05/groundtruthdigitaldublindeepmappingvirtualreality) at the Science Gallery Dublin in June 2019.
+This repository includes materials and user guides prepared for the public Open Labs workshop [Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](https://dublin.sciencegallery.com/events/2019/05/groundtruthdigitaldublindeepmappingvirtualreality) at the Science Gallery Dublin in June 2019.
 
 ## Contents
 
@@ -10,7 +10,7 @@ This repository includes materials and user guides prepared for the public Open 
 
 **Creating 3D Models with Structure from Motion using Meshroom and Blender** - SfM_Meshroom_To_Blender.pdf
 
-## GROUND TRUTH IN DIGITAL DUBLIN: DEEP MAPPING IN VIRTUAL REALITY
+![Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](images/Ground_Truth_In_Digital_Dublin.PNG)
 
 > “Thousands of electronic eyes and ears continuously capture the city’s unfolding, interwoven narrative threads, and spin them out into cyberspace….In countless spatially and temporally displaced, inherently ambiguous fragments, Dublin electronically doubles itself”
 
