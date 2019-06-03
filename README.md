@@ -12,7 +12,7 @@ This repository includes materials and user guides prepared for the public Open 
 
 ## DIGITAL DUBLIN: DEEP MAPPING IN VIRTUAL REALITY
 
-# “Thousands of electronic eyes and ears continuously capture the city’s unfolding, interwoven narrative threads, and spin them out into cyberspace….In countless spatially and temporally displaced, inherently ambiguous fragments, Dublin electronically doubles itself”
+> “Thousands of electronic eyes and ears continuously capture the city’s unfolding, interwoven narrative threads, and spin them out into cyberspace….In countless spatially and temporally displaced, inherently ambiguous fragments, Dublin electronically doubles itself”
 
 Mitchell, W.J. 2002. ‘Electronic Doublin’. Volume Project
 
