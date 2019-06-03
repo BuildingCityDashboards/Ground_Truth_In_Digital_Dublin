@@ -2,6 +2,8 @@
 
 This repository includes materials and user guides prepared for the public Open Labs workshop [Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](https://dublin.sciencegallery.com/events/2019/05/groundtruthdigitaldublindeepmappingvirtualreality) at the Science Gallery Dublin in June 2019.
 
+================
+
 ![Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](images/Ground_Truth_In_Digital_Dublin.PNG)
 
 > “Thousands of electronic eyes and ears continuously capture the city’s unfolding, interwoven narrative threads, and spin them out into cyberspace….In countless spatially and temporally displaced, inherently ambiguous fragments, Dublin electronically doubles itself”
