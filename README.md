@@ -6,7 +6,7 @@ This session explored the possibility of using a virtual environment as the basi
 
 Participants were invited to identify and capture information on the 'points of interest' specified in a legend-less map. In particular they were encouraged to explore the use of digital photography and 'Structure from Motion' with the free and open source software [Meshroom](https://alicevision.github.io/) in order to generate photoreal 3D models. 
 
-Crowd-sourced 3D models then have the potential to be integrated back into the official model with a range of other media including sound and 360 video. In this way participants are facilitated in contributing to the creation of a shared, immersive, and multisensory 3D experience. This virtual reality experience would then register their own subjective interests and collective 'ground truth' alongside that of the other official open datasets integrated by the Building City Dashboards team.
+Crowd-sourced 3D models then have the potential to be integrated back into the official 3D model of the Docklandds area along with a range of other media including sound and 360 video. In this way participants are facilitated in contributing to the creation of a shared, immersive, and multisensory 3D experience. This virtual reality experience would then register their own subjective interests and collective 'ground truth' alongside that of the other official open datasets integrated by the Building City Dashboards team.
 
 ## Contents
 
