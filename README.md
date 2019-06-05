@@ -14,7 +14,7 @@ Crowd-sourced 3D models then have the potential to be integrated back into the o
 
 **Ground Truthing - Participant Guide** - [Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf](https://github.com/virtualarchitectures/Ground_Truth_In_Digital_Dublin/blob/master/Participant_Handout_Ground_Truth_In_Digital_Dublin.pdf)
 
-**Creating 3D Models with Structure from Motion using Meshroom and Blender** - SfM_Meshroom_To_Blender.pdf
+**Creating 3D Models with Structure from Motion using Meshroom and Blender** - [SfM_With_Meshroom.pdf](SfM_With_Meshroom.pdf)
 
 ![Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](images/Ground_Truth_In_Digital_Dublin.PNG)
 
