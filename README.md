@@ -2,7 +2,7 @@
 
 This repository includes materials and user guides prepared for the public Open Labs workshop [Ground Truth in Digital Dublin: Deep Mapping in Virtual Reality](https://dublin.sciencegallery.com/events/2019/05/groundtruthdigitaldublindeepmappingvirtualreality) at the Science Gallery Dublin in June 2019.
 
-This session explored the possibility of using a virtual environment as the basis for a multisensory 'deep map' which integrates crowd sourced multi-media. These media would be collected during an expedition into the nearby Dublin Docklands SDZ, an area for which a detailed 3D architectural model had recently been commissioned for the 3d Data Hack Dublin and for publicl release as open data. 
+This session explored the possibility of using a virtual environment as the basis for a multisensory 'deep map' which integrates crowd sourced multi-media. These media would be collected during an expedition into the nearby Dublin Docklands SDZ, an area for which a detailed 3D architectural model had recently been commissioned for the 3d Data Hack Dublin and for public release as open data. 
 
 Participants were invited to identify and capture information on the 'points of interest' specified in a legend-less map. In particular they were encouraged to explore the use of digital photography and 'Structure from Motion' with the free and open source software [Meshroom](https://alicevision.github.io/) in order to generate photoreal 3D models. 
 
